@@ -1,8 +1,6 @@
-## Welcome to Stock Helper Pages
+## Welcome to Stock Helper
 
 The purpose of this page is to track, analyze, and predict stock prices using Classification Random Forest model. Input stock data is extracted from [Alpha Advantage](https://www.alphavantage.co).
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
