@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Stock Helper Pages
 
-You can use the [editor on GitHub](https://github.com/vkton/stock-helper/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The purpose of this page is to track, analyze, and predict stock prices using Classification Random Forest model. Input stock data is extracted from [Alpha Advantage](https://www.alphavantage.co).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
